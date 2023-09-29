@@ -1,0 +1,14 @@
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\bin\Debug\net6.0\Calculadora_Salario.exe
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\bin\Debug\net6.0\Calculadora_Salario.deps.json
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\bin\Debug\net6.0\Calculadora_Salario.runtimeconfig.json
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\bin\Debug\net6.0\Calculadora_Salario.dll
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\bin\Debug\net6.0\Calculadora_Salario.pdb
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\Calculadora_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\Calculadora_Salario.AssemblyInfoInputs.cache
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\Calculadora_Salario.AssemblyInfo.cs
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\Calculadora_Salario.csproj.CoreCompileInputs.cache
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\Calculadora_Salario.dll
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\refint\Calculadora_Salario.dll
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\Calculadora_Salario.pdb
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\Calculadora_Salario.genruntimeconfig.cache
+C:\Users\caisi\OneDrive\Área de Trabalho\Projetos\Calculadora_Salario\Calculadora_Salario\obj\Debug\net6.0\ref\Calculadora_Salario.dll
